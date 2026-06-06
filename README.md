@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Andrii Savka 👋
 
-<!--
-**SavkaAndrii/SavkaAndrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WordPress Developer, AI Content Creator and Digital Marketing enthusiast from Toruń, Poland.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Galeria Piwa
+Website for a local beer store in Toruń.
+WordPress, SEO, Marketing Support, Loyalty Program.
+
+### Abrakadabra Events
+Website for an events and decoration company.
+WordPress, UI Design, Responsive Design.
+
+### Remonteria House
+Website project for a renovation company.
+HTML, CSS, JavaScript, Swiper.js.
+
+## 🛠 Technologies
+
+- WordPress
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- Swiper.js
+- SEO
+- Digital Marketing
+- AI Content Creation
+
+## 🌐 Links
+
+LinkedIn:
+https://linkedin.com/in/savkaandrii
+
+GitHub:
+https://github.com/SavkaAndrii
+
+Portfolio:
+https://galeria-piwa.com.pl
+https://abrakadabra-events.pl
